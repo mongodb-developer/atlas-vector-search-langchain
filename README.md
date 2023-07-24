@@ -26,6 +26,8 @@ and also throws some light on
 Google colab 
 
   ## References
+  - [MongoDB Atlas Vector Search](https://www.mongodb.com/products/platform/atlas-vector-search)
+  - [MongoDB Documentation for Indexing vector embeddings](https://www.mongodb.com/docs/atlas/atlas-search/field-types/knn-vector/)
   - [MongoDB Gen AI Whitepaper](https://www.mongodb.com/collateral/embedding-generative-ai)
   - [MongoDB Blog](https://www.mongodb.com/blog/post/going-from-zero-to-one-enterprise-ready-mongodb-llms)
   - [LangChain Integration with MongoDB](https://python.langchain.com/docs/modules/data_connection/vectorstores/integrations/mongodb_atlas)
