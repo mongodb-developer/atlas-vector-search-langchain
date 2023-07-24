@@ -1,4 +1,4 @@
-# atlas-vector-search-langchain
+# How to Integrate LangChain with MongoDB Atlas Vector Search to realise the true potential of Retrieval Augmented Generation
 This Repo shows how to integrate LangChain, Open AI and store embeddings in the MongoDB Atlas and run a similarity search using MongoDB Atlas Vector Search.
 
 ## The Notebook shows how to 
